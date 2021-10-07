@@ -1,4 +1,4 @@
-## movies-with-express
+## movies-app-api
 simple movies explore - a small ExpressJS server to search movies on https://omdbapi.com/
 
 ----------
